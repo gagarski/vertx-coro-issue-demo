@@ -14,14 +14,9 @@
         <java.version>16</java.version>
         <kotlin.version>1.5.10</kotlin.version>
         <kotlinx.coroutines.version>1.5.0</kotlinx.coroutines.version>
-        <vertx.version>4.0.3</vertx.version>
+        <vertx.version>4.1.0</vertx.version>
         <exec.mainClass>ski.gagar.demo.MainKt</exec.mainClass>
     </properties>
-
-    <scm>
-        <developerConnection>scm:git:git@github.com:gagarski/aybolit-like-bom.git</developerConnection>
-        <tag>HEAD</tag>
-    </scm>
 
     <repositories>
         <repository>
