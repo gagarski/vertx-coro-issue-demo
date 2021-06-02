@@ -11,7 +11,7 @@
     <properties>
         <compiler-plugin.version>3.8.1</compiler-plugin.version>
         <java.version.kotlin>1.8</java.version.kotlin>
-        <java.version>16</java.version>
+        <java.version>8</java.version>
         <kotlin.version>1.5.10</kotlin.version>
         <kotlinx.coroutines.version>1.5.0</kotlinx.coroutines.version>
         <vertx.version>4.1.0</vertx.version>
